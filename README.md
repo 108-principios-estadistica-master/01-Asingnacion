@@ -1,26 +1,3 @@
----
-title: 'Asignación 1: Introducción al lenguaje R'
-author: "Dr. Marco Aurelio González Tagle"
-date: '29 /01/ 2019'
-output:
-  html_document:
-    fig_caption: yes
-    highlight: tango
-    keep_md: yes
-    toc: yes
-  pdf_document:
-    fig_caption: yes
-    fig_height: 2
-    fig_width: 3
-    highlight: tango
-    includes:
-      in_header: header.tex
-    toc: yes
-fontsize: 11pt
-classoption: a4paper
-bibliography: Bib1.bib
----
-
 # Objetivo
 
 El objetivo de la siguiente asignación es la selección de un conjunto de datos en _R_  mediante restricciones.
