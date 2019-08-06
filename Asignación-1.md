@@ -156,7 +156,10 @@ O se pueden importar guardando los datos en Excel y despues importarlos
 conjunto <- read.csv("cuadro1.csv", header=TRUE)
 ```
 
+
 # Referencias
+
+
 
 [Ingreso]: figuras/Importar.png
 [dropbox]: figuras/dropbox.png
